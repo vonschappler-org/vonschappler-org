@@ -43,6 +43,9 @@ E esses são dados gerais sobre esta conta no Github:
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=fff&style=for-the-badge)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=for-the-badge)
+
 
 - Estou aprendendo a trabalhar com React
 - Estou preparando cursos para publicar na Udemy
