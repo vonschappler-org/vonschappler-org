@@ -6,7 +6,7 @@
 E esses são dados gerais sobre esta conta no Github:
 
 ![visitors](https://badges.pufler.dev/visits/vonschappler/vonschappler.github.io?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Visitantes)[^1]
-![repos](https://badges.pufler.dev/repos/vonschappler?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Repositorios)[^2]
+![repos](https://badges.pufler.dev/repos/vonschappler-org?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Repositorios)[^2]
 
 <details open>
 <summary><span class="h2">Pessoal</span></summary>
