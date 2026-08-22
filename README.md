@@ -66,7 +66,7 @@ E esses são dados gerais sobre esta conta no Github:
 - Atualmente trabalho por conta própria, em pequenos projetos:
   - Desenvolvendo scripts em Python para uso com o chatbot da Streamlabs
   - Desenvolvendo pequenos projetos gráficos para empresas locais (arte para material impresso)
-  - Fazendo livestreams na plataforma Twitch
+  - Fazendo LiveStream na plataforma Twitch
   - Produzindo conteúdo para a plataforma YouTube
   - Iniciando minha carreira de instrutor na Udemy
 
@@ -124,7 +124,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 </div>
 </div>
 
-<h4>2. Consquistas:</h4>
+<h4>2. Conquistas:</h4>
 
 <div align=center>
 
