@@ -14,7 +14,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: ''
           plugin_isocalendar: yes
 
@@ -23,7 +23,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: ''
           plugin_stars: yes
           plugin_stars_limit: 3
@@ -33,7 +33,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/stargazers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: ''
           plugin_stargazers: yes
 
@@ -42,7 +42,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: ''
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -85,7 +85,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: ''
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -96,7 +96,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/snippet.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: ''
           plugin_code: yes
           plugin_code_load: 400
@@ -117,7 +117,7 @@ jobs:
         with:
           user: vonschappler
           filename: metrics/lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_METRICS_TOKEN }}
           base: repositories
           plugin_lines: yes
 
