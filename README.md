@@ -20,9 +20,9 @@ E esses são dados gerais sobre esta conta no Github:
 
   <span class='small'>Se não estiver mostrando nenhuma música, é por que não estou programando:</span>
 
-<div style='display: flex; justify-content: center'>
+<div align='center' style='display: flex; justify-content: center'>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&redirect=true)
 </div>
 
 - Tenho conhecimento nas seguintes linguagens de programação:
